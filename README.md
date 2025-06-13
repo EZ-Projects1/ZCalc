@@ -1,2 +1,2 @@
 # ZCalc
-Una calculadora basada en terminal para uso cuando la internet no esta disponible, por ahora esta en Windows pero se esta trabajando para una versión de macOS y Linux.
+A powerful CLI calculator that is meant to be used as an alternative when the internet isn't available, only supported on Windows but planning to expand it soon.
